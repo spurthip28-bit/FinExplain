@@ -21,7 +21,8 @@ FinExplain focuses on **explainability** — “*why did it move?*”
 ## Features
 - Market + News Fusion: Combines Yahoo Finance price data with daily news headlines to analyze the drivers behind stock movements.
 - Agentic Reasoning Pipeline: • MarketAgent – Quantifies the magnitude and direction of a price move.
-- NewsAgent – Ranks and classifies headlines using a zero-shot transformer (BART-MNLI) and FinBERT sentiment model. • AnalystAgent – Synthesizes findings into concise, human-readable     explanations with confidence scoring.
+- NewsAgent – Ranks and classifies headlines using a zero-shot transformer (BART-MNLI) and FinBERT sentiment model.
+- AnalystAgent – Synthesizes findings into concise, human-readable explanations with confidence scoring.
 - Transformer-based NLP: Zero-shot headline classification into categories like Earnings, Sector, Macro, and Analyst.
 - FinBERT sentiment analysis for finance-specific polarity detection.
 - Explainability Framework: Structured JSON output including driver attribution, sentiment, and confidence.
