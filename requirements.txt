@@ -1,0 +1,7 @@
+streamlit
+yfinance
+pandas
+altair==4.2.2
+pyarrow
+transformers
+torch
