@@ -1,4 +1,4 @@
-# FinExplain 🧠📈
+# FinExplain📈
 FinExplain is an AI-driven financial insight system that explains why a stock moved by integrating market data and financial news through a combination of rule-based analytics and transformer-based natural language reasoning.
 
 It demonstrates how GenAI and analytical frameworks can augment financial analysts — turning raw market data into structured, interpretable insights.
