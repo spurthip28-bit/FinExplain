@@ -31,4 +31,4 @@ FinExplain focuses on **explainability** — “*why did it move?*”
 ## How to run (local / Colab)
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run Finexplainstream.py
