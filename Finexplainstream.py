@@ -164,7 +164,7 @@ def generate_explanation_structured(ticker: str, move: dict, ranked_articles: li
     return result
 
 
-# Transformer based News Agent
+#-------- Transformer-based News Agent
 
 def news_agent_transformer(ticker: str, date_str: str, ranked_articles: list):
     if not ranked_articles:
